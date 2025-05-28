@@ -1,3 +1,3 @@
-# Задачи по Теории вероятности и Математической статистике
+# Probability Theory and Mathematical Statistics
 
-В этом репозитории представлены мои решения задач из курса ТВиМС в НИУ ВШЭ, предполагающих реализацию вычислений на Python.
+This repository contains my solutions to problems from the course "Probability Theory and Mathematical Statistics" at the Higher School of Economics, involving the implementation of calculations in Python.
